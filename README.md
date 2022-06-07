@@ -3,7 +3,7 @@
 ## SQL Querys
 
 ```
-CREATE DATABASE `anime_store_2`;
+CREATE DATABASE `anime_store`;
 ```
 ```
 CREATE TABLE `producer` (
